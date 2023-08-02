@@ -1,4 +1,4 @@
-![DBschema](/photo/myLogo.png)
+![DBschema](/photo/logo_illustration.png)
 
 # Hey, there? Welcome! 👋
 
